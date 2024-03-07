@@ -1,4 +1,5 @@
 ## Road Accident Analysis Dashboard Report
+![Road Accident Analysis Dashboard](https://github.com/sanmyyung/Road-Accident-Analysis/blob/main/road%20dash.JPG)
 
 ### Key Performance Indicators (KPIs):
 
